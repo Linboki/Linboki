@@ -1,10 +1,22 @@
-### Hi there 👋
+# Hi there 👋
+## My name is 林伯瑾
+## I was born on July 22nd, 2001.
+## I'm a management information systems major at NCU.
+## #Director of NCU Pop Dance club
+
+#### Good to see you.
 
 <!--
 **Linboki/Linboki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-# My chinese name is 林伯瑾
-# Birthday: 2001/07/22
-#
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
